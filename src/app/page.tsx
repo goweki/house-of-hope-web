@@ -18,8 +18,7 @@ export default function Home() {
             HOUSE OF HOPE CHILDREN&apos;S HOME
           </h1>
           <p className="my-8">
-            <span className="font-medium">Modular and versatile.</span>A
-            privately owned Charitable Children&apos;s Institution located at
+            A privately owned Charitable Children&apos;s Institution located at
             Sega, Ugenya in Siaya county. Established in 2004, it has since
             served hundreds of vulnerable children from across the lake region
             of Kenya. We currently host 30 school attending children and run a
