@@ -52,7 +52,11 @@ export function PaymentModal({
               Send any contributions and donations to:
             </p>
             <p className="text-base leading-relaxed text-gray-500">
-              M-PESA Paybill Account No. CCVV Name: THE NAME
+              St Catherines Childrens Home
+              <br />
+              SAFARICOM PAYBILL: <br />
+              Business No. <strong>891300</strong>, Account:{" "}
+              <strong> 120795</strong>
             </p>
           </div>
 
