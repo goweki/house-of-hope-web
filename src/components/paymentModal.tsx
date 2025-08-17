@@ -54,7 +54,7 @@ export function PaymentModal({
             <p className="text-base leading-relaxed text-gray-500">
               St Catherines Childrens Home
               <br />
-              SAFARICOM PAYBILL: <br />
+              M-PESA PAYBILL: <br />
               Business No. <strong>891300</strong>, Account:{" "}
               <strong> 120795</strong>
             </p>
